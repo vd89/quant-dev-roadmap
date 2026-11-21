@@ -12,6 +12,7 @@ detailed study plans.
 | [`roadmap/roadmap.md`](roadmap/roadmap.md) | The full multi-phase roadmap (skills, timeline, milestones) |
 | [`research/job-market.md`](research/job-market.md) | Job-market research: roles, firms, comp, hiring bar |
 | [`math/phase-1-math-plan.md`](math/phase-1-math-plan.md) | Phase 1 mathematics study plan with resources |
+| [`code/phase1/`](code/phase1/README.md) | Starter code stubs + tests for the Phase 1 math milestones |
 
 ## How to use this repo
 
